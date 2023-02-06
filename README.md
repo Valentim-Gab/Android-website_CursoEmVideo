@@ -3,7 +3,7 @@ Curso em Vídeo - Curso HTML5 &amp; CSS3 módulo 2 - Desafio 10
 
 ```bash
 
-Using: {
+Using {
   HTML;
   CSS.
 }
