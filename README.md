@@ -9,6 +9,6 @@ Using {
 }
 ```
 
-<a href="https://valentim-gab.github.io/Android_CursoEmVideo/pages/android.html">
+<a href="https://valentim-gab.github.io/Android-website_CursoEmVideo/pages/android.html">
   <input style="background: transparent" type="button" value="SITE" />
 </a>
